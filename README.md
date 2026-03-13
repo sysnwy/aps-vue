@@ -6,7 +6,7 @@ This template helps you get started with Vue3 development on Vite using Finnhub 
 Further configuration for Vite server
 See https://vite.dev/config/
 
-Installation Project Preparation
+Installation Project Preparation.
 ```bash
 npm install
 ```
@@ -15,12 +15,12 @@ Get Finnhub API Key
 1. Go to https://finnhub.io/ and create an account to get your first API.
 2. Get the API key from the dashboard.
 
-Run the application 
+Run the application via chrome.
 ```bash
 npm run dev
 ```
 
-Compilation and Minification for Production
+Compilation and Minification for Production ready.
 ```bash
 npm run build
 ```
